@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367162651413",
+    "firebase_url": "https://crop-guard.firebaseio.com",
+    "project_id": "crop-guard",
+    "storage_bucket": "crop-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367162651413:android:ec5fbfa5184c62b3f12f1c",
+        "android_client_info": {
+          "package_name": "com.example.plantguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367162651413-u1es8prqc9fekk3gi21ns6u30kskvmaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ELAbnG6Zff1U5y-0hPDmeuTdyPu-Cxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367162651413-u1es8prqc9fekk3gi21ns6u30kskvmaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
