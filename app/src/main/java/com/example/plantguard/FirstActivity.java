@@ -20,6 +20,7 @@ public class FirstActivity extends AppCompatActivity {
                 startActivity(home);
                 finish();
             }
-        },1000);
+        },5000);
     }
 }
+//

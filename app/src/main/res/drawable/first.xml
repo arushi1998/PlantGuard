@@ -4,3 +4,4 @@
     android:drawable="@drawable/progressbar3"
     android:pivotX="50%"
     android:pivotY="50%" />
+<!---->

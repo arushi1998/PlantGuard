@@ -19,8 +19,8 @@ public class ProBar extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_probar);
 
-        progressBar = (ProgressBar) findViewById(R.id.progressBar);
-        textView = (TextView) findViewById(R.id.textView);
+        progressBar = findViewById(R.id.progressBar);
+        textView = findViewById(R.id.textView);
         // Start long running operation in a background thread
         new Thread(new Runnable() {
             public void run() {
@@ -45,3 +45,4 @@ public class ProBar extends AppCompatActivity {
         }).start();
     }
 }
+//
